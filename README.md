@@ -4,6 +4,89 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalidevloper&label=Profile%20views&color=0e75b6&style=flat" alt="sonalidevloper" /> </p>
 
 - 🔭 I’m currently working on **java**
+<h1 align="center">Hi, I'm Sonali Jena 👋</h1>
+<h3 align="center">Full Stack Developer | MERN | Java | Building Scalable Web Applications</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sonalidevloper&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 MCA Student (2024–2026), focused on **Full Stack Development**
+- 💻 Strong in **MERN Stack + REST API Development**
+- ⚙️ Experience building **real-world scalable projects**
+- 📈 Interested in **backend systems, APIs, and performance optimization**
+- 📫 Reach me at: **sjena6401@gmail.com**
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
+- Java, JavaScript, SQL, Python
+
+### 🌐 Frontend
+- React.js, Vite, Tailwind CSS, HTML, CSS
+
+### ⚙️ Backend
+- Node.js, Express.js, REST APIs
+
+### 🗄️ Database
+- MongoDB, MySQL
+
+### 🔧 Tools & Technologies
+- Git, GitHub, Postman, JWT Authentication, Redux
+
+---
+
+## 🔥 Featured Projects
+
+### 🧠 AI Ad Creative Generator
+- Built using **MERN + LLM APIs**
+- Generates **AI-based ad creatives + captions**
+- Integrated **image generation + prompt engineering**
+- Implemented **REST APIs, rate limiting, and database storage**
+
+### 🩸 DropLife – Smart Blood Donation System
+- Full-stack MERN project with **real-time donor matching**
+- Implemented **JWT authentication + role-based access**
+- Integrated **Socket.IO for notifications**
+- Designed **geolocation-based donor search**
+
+### 🏥 SevaaYukti – Rural Healthcare Platform
+- **Offline-first healthcare system** for rural Odisha
+- Built features for **ASHA workers + citizens**
+- Focused on **accessibility, multilingual UI, and sync systems**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonalidevloper&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalidevloper&layout=compact" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sonali-jena-324a912b9" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## ⚡ What I'm Focused On
+
+- Building **production-ready full stack apps**
+- Improving **DSA + system design**
+- Preparing for **top product-based companies**
 
 - 🌱 I’m currently learning **java**
 

@@ -74,20 +74,29 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+# 📊 GitHub Analytics (RADIAL + PRO)
 
+<!-- 🔥 RADIAL MAIN CARD -->
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=sonalidevloper&show_icons=true&theme=tokyonight" />
+  <img src="https://ghstats.dev/api/card?username=sonalidevloper&theme=tokyonight&show_ring=true" />
 </p>
 
+<!-- ⚡ CLEAN SECONDARY STATS -->
 <p align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sonalidevloper&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonalidevloper&show_icons=true&theme=tokyonight" />
 </p>
 
+<!-- 🔥 STREAK -->
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalidevloper&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sonalidevloper&theme=tokyonight" />
 </p>
 
+<!-- 💡 MOST USED LANGUAGES -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalidevloper&layout=compact&theme=tokyonight" />
+</p>
+
+---
 ## 🏆 Achievements & Certifications
 - ✔ MERN Stack Developer Internship  
 - ✔ Web Development Internship  

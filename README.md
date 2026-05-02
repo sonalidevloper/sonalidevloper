@@ -74,29 +74,30 @@
 
 ---
 
-<h2 align="center">💖 GitHub Stats</h2>
+# 📊 GitHub Analytics
 
-<!-- 🔥 RADIAL (PINK STYLE) -->
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=sonalidevloper&theme=tokyonight&accent=ff69b4" />
+<!-- 🔥 RADIAL MAIN CARD -->
+<p align="left">
+  <img src="https://ghstats.dev/api/card?username=sonalidevloper&theme=radical&show_ring=true" />
+</p>
+# 📊 GitHub Stats
+<!-- ⚡ CLEAN SECONDARY STATS -->
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonalidevloper&show_icons=true&theme=radical" />
 </p>
 
-<!-- 📊 MAIN STATS (PINK CUSTOM) -->
+<!-- 🔥 STREAK -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonalidevloper&show_icons=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=ff69b4" />
+  <img src="https://streak-stats.demolab.com?user=sonalidevloper&theme=radical" />
 </p>
 
-<!-- 🔥 STREAK (PINK) -->
+<!-- 💡 MOST USED LANGUAGES -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonalidevloper&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
-</p>
-
-<!-- 💡 LANGUAGES (PINK) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalidevloper&layout=compact&bg_color=0d1117&title_color=ff69b4&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalidevloper&layout=compact&theme=radical" />
 </p>
 
 ---
+
 ## 🏆 Achievements & Certifications
 - ✔ MERN Stack Developer Internship  
 - ✔ Web Development Internship  

@@ -82,8 +82,8 @@
 </p>
 # 📊 GitHub Stats
 <!-- ⚡ CLEAN SECONDARY STATS -->
-<p align="Center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonalidevloper&show_icons=true&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonalidevloper&theme=radical" />
 </p>
 
 ---

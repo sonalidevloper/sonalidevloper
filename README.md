@@ -39,7 +39,7 @@
 
 ### 🗄️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql, pl/sql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### ⚙️ Tools & Platforms

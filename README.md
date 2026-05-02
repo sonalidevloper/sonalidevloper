@@ -7,9 +7,9 @@
   <a href="mailto:sjena6401@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
-<img src="https://komarev.com/ghpvc/?username=sonalidevloper&label=Profile%20views&color=0e75b6&style=flat" alt="sonalidevloper" />
 
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalidevloper&label=Profile%20views&color=0e75b6&style=flat" alt="sonalidevloper" /> </p>
 
 
 ---

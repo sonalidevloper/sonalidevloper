@@ -74,26 +74,26 @@
 
 ---
 
-# 📊 GitHub Analytics (RADIAL + PRO)
+<h2 align="center">💖 GitHub Stats</h2>
 
-<!-- 🔥 RADIAL MAIN CARD -->
+<!-- 🔥 RADIAL (PINK STYLE) -->
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=sonalidevloper&theme=tokyonight&show_ring=true" />
+  <img src="https://ghstats.dev/api/card?username=sonalidevloper&theme=tokyonight&accent=ff69b4" />
 </p>
 
-<!-- ⚡ CLEAN SECONDARY STATS -->
+<!-- 📊 MAIN STATS (PINK CUSTOM) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonalidevloper&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonalidevloper&show_icons=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=ff69b4" />
 </p>
 
-<!-- 🔥 STREAK -->
+<!-- 🔥 STREAK (PINK) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonalidevloper&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sonalidevloper&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
 </p>
 
-<!-- 💡 MOST USED LANGUAGES -->
+<!-- 💡 LANGUAGES (PINK) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalidevloper&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalidevloper&layout=compact&bg_color=0d1117&title_color=ff69b4&text_color=ffffff" />
 </p>
 
 ---

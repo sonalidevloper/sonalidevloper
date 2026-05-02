@@ -77,12 +77,12 @@
 # 📊 GitHub Analytics
 
 <!-- 🔥 RADIAL MAIN CARD -->
-<p align="left">
+<p align="Center">
   <img src="https://ghstats.dev/api/card?username=sonalidevloper&theme=radical&show_ring=true" />
 </p>
 # 📊 GitHub Stats
 <!-- ⚡ CLEAN SECONDARY STATS -->
-<p align="right">
+<p align="Center">
   <img src="https://github-readme-stats.vercel.app/api?username=sonalidevloper&show_icons=true&theme=radical" />
 </p>
 

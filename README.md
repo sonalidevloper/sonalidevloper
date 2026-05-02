@@ -88,8 +88,9 @@
 
 <!-- 🔥 STREAK -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonalidevloper&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalidevloper&layout=compact&theme=radical" />
 </p>
+
 
 <!-- 💡 MOST USED LANGUAGES -->
 <p align="center">

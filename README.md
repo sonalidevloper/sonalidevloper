@@ -86,17 +86,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sonalidevloper&show_icons=true&theme=radical" />
 </p>
 
-<!-- 🔥 STREAK -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalidevloper&layout=compact&theme=radical" />
-</p>
-
-
-<!-- 💡 MOST USED LANGUAGES -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalidevloper&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ## 🏆 Achievements & Certifications

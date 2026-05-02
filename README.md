@@ -1,10 +1,14 @@
  ## <h1 align="center">Hi,I'm Sonali Jena 👋</h1>
 <h3 align="center">🚀 Java & MERN Stack Developer | MCA 2026 | Building Real-World Scalable Applications</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sonali-jena-324a912b9">  </a>
+  <a href="https://www.linkedin.com/in/sonali-jena-324a912b9"> 
+<img src="https://img.shields.io/badge/LinkedIn-Sonali%20Jena-blue?style=for-the-badge&logo=linkedin">
+ </a>
   <a href="mailto:sjena6401@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
+<img src="https://komarev.com/ghpvc/?username=sonalidevloper&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </p>
 
 

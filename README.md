@@ -1,4 +1,4 @@
- <h1 align="center">Hi, I'm Sonali Jena 👋</h1>
+<h1 align="center">Hi, I'm Sonali Jena 👋</h1>
 <h3 align="center">🚀 Java & MERN Stack Developer | MCA 2026 | Building Real-World Scalable Applications</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sonali-jena-324a912b9"> 

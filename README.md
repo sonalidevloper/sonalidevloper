@@ -79,7 +79,7 @@
 
 <!-- 🔥 RADIAL MAIN CARD -->
 <p align="Center">
-  <img src="" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonalidevloper&show_icons=true&theme=radical" />
 </p>
 
 

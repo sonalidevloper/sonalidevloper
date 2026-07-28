@@ -79,15 +79,14 @@
 
 <!-- 🔥 RADIAL MAIN CARD -->
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=sonalidevloper&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://ghstats.dev/api/top-langs?username=sonalidevloper&theme=tokyonight&layout=compact&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=sonalidevloper&theme=tokyonight&hide_border=true"/>
 </p>
 
 
 # 📊 GitHub Stats
 <!-- ⚡ CLEAN SECONDARY STATS -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonalidevloper&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonalidevloper&theme=tokyo-night"/>
 </p>
 
 

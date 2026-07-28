@@ -86,7 +86,7 @@
 # 📊 GitHub Stats
 <!-- ⚡ CLEAN SECONDARY STATS -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonalidevloper&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=sonalidevloper&theme=radical&v=2" />
 </p>
 
 ---

@@ -76,7 +76,7 @@
 # 📊 GitHub Analytics
 <!-- 🔥 RADIAL MAIN CARD -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonalidevloper&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sonalidevloper&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF1493&currStreakNum=FFFFFF&sideNums=FF69B4&currStreakLabel=FF69B4&sideLabels=F8BBD0&dates=FFFFFF"/>
 </p>
 
 

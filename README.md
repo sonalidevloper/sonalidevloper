@@ -78,16 +78,20 @@
 # 📊 GitHub Analytics
 
 <!-- 🔥 RADIAL MAIN CARD -->
-<p align="Center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonalidevloper&show_icons=true&theme=radical" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sonalidevloper&theme=radical&v=2" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonalidevloper&theme=react-dark" />
+</p>
 
 # 📊 GitHub Stats
 <!-- ⚡ CLEAN SECONDARY STATS -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonalidevloper&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonalidevloper&theme=react-dark" />
 </p>
+
 
 ---
 

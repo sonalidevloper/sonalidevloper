@@ -82,9 +82,6 @@
   <img src="https://streak-stats.demolab.com?user=sonalidevloper&theme=radical&v=2" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonalidevloper&theme=react-dark" />
-</p>
 
 # 📊 GitHub Stats
 <!-- ⚡ CLEAN SECONDARY STATS -->

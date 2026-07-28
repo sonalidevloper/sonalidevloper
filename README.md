@@ -71,10 +71,6 @@
 
 ---
 
----
-
----
-
 # 📊 GitHub Analytics
 
 <!-- 🔥 RADIAL MAIN CARD -->

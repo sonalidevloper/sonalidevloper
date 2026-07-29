@@ -83,7 +83,7 @@
 # 📊 GitHub Stats
 <!-- ⚡ CLEAN SECONDARY STATS -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonalidevloper&bg_color=0D1117&color=FF8DC7&title_color=FF1493&line=FF1493&point=FF69B4&area=true&area_color=FF1493&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonalidevloper&bg_color=0D1117&color=F8BBD0&title_color=FF69B4&line=FF69B4&point=FFB6C1&area=true&area_color=FF69B4&hide_border=true"/>
 </p>
 
 ---

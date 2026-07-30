@@ -76,14 +76,14 @@
 # 📊 GitHub Analytics
 <!-- 🔥 RADIAL MAIN CARD -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonalidevloper&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sonalidevloper&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF1493&currStreakNum=FFFFFF&sideNums=FF69B4&currStreakLabel=FF69B4&sideLabels=F8BBD0&dates=FFFFFF"/>
 </p>
 
 
 # 📊 GitHub Stats
 <!-- ⚡ CLEAN SECONDARY STATS -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonalidevloper&bg_color=0D1117&color=E1BEE7&title_color=FF79C6&line=C77DFF&point=FF79C6&area=true&area_color=D291FF&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonalidevloper&bg_color=0D1117&color=F8BBD0&title_color=FF69B4&line=FF69B4&point=FFB6C1&area=true&area_color=FF69B4&hide_border=true"/>
 </p>
 
 ---

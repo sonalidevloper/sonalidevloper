@@ -76,7 +76,8 @@
 # 📊 GitHub Analytics
 <!-- 🔥 RADIAL MAIN CARD -->
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=sonalidevloper&theme=synthwave&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=sonalidevloper&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalidevloper&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 

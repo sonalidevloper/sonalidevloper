@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 <a href="https://practice.geeksforgeeks.org/leaderboard">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Sonali%20Jena-brightgreen?style=for-the-badge&logo=geeksforgeeks">
+<img src="https://www.geeksforgeeks.org/profile/user_gixvxfelq5c?tab=activity">
 </a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalidevloper&label=Profile%20views&color=14A647&style=flat" alt="sonalidevloper" /> </p>

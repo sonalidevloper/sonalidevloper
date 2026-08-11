@@ -1,18 +1,24 @@
 <h1 align="center">Hi, I'm Sonali Jena 👋</h1>
-<h3 align="center">🚀 Java & MERN Stack Developer | MCA 2026 | Building Real-World Scalable Applications</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/sonali-jena-324a912b9"> 
-<img src="https://img.shields.io/badge/LinkedIn-Sonali%20Jena-blue?style=for-the-badge&logo=linkedin">
-</a>
-<a href="mailto:sjena6401@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-<a href="https://practice.geeksforgeeks.org/leaderboard">
-<img src="https://www.geeksforgeeks.org/profile/user_gixvxfelq5c?tab=activity">
-</a>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalidevloper&label=Profile%20views&color=14A647&style=flat" alt="sonalidevloper" /> </p>
 
+<h3 align="center">🚀 Java & MERN Stack Developer | MCA 2026 | Building Real-World Scalable Applications</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sonali-jena-324a912b9">
+    <img src="https://img.shields.io/badge/LinkedIn-Sonali%20Jena-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  
+  <a href="mailto:sjena6401@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  
+  <a href="https://www.geeksforgeeks.org/profile/user_gixvxfelq5c?tab=activity">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sonalidevloper&label=Profile%20views&color=14A647&style=flat" alt="sonalidevloper">
+</p>
 ---
 
 ## 🧑‍💻 About Me

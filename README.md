@@ -4,25 +4,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sonali-jena-324a912b9">
-    <img src="https://img.shields.io/badge/LinkedIn-Sonali%20Jena-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  
   <a href="mailto:sjena6401@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  
   <a href="https://www.geeksforgeeks.org/profile/user_gixvxfelq5c?tab=activity">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
   </a>
-</p>
-
   <a href="https://www.hackerrank.com/profile/sjena6401">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sonalidevloper&label=Profile%20views&color=14A647&style=flat" alt="sonalidevloper">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonalidevloper&label=Profile%20views&color=14A647&style=flat" alt="Profile views">
 </p>
 ---
 

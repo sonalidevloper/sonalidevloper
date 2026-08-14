@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
   </a>
   <a href="https://www.hackerrank.com/profile/sjena6401">
-    <img src="https://img.shields.io/badge/HackerRank-1F9D55?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank">
+  <img src="https://img.shields.io/badge/HackerRank-006B3C?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
 </p>
 

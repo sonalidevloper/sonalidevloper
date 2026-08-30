@@ -93,7 +93,7 @@
 <!-- ⚡ CLEAN SECONDARY STATS -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-abc123.vercel.app/graph?username=sonalidevloper&bg_color=0D1117&color=F8BBD0&title_color=FF69B4&line=FF69B4&point=FFB6C1&area=true&area_color=FF69B4&hide_border=true" />
+  <img src="https://github-readme-activity-graph-kohl.vercel.app/graph?username=sonalidevloper&bg_color=0D1117&color=F8BBD0&title_color=FF69B4&line=FF69B4&point=FFB6C1&area=true&area_color=FF69B4&hide_border=true"/>
 </p>
 ---
 
